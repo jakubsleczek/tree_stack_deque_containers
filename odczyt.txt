@@ -1,0 +1,16 @@
+read tree
+ a
+  aa
+  ab
+   aba
+ b
+  ba
+   baa
+ c
+  ca
+   caa
+   cab
+  cb
+   cba
+   cbb
+    cbba
